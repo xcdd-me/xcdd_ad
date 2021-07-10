@@ -13,6 +13,7 @@
 ![](https://github.com/xcdd-me/xcdd_ad/blob/main/scrnli_2021_7_10%E4%B8%8B%E5%8D%882-19-30.png?raw=true)
 
 ## 帖子内容页上方，1800/周，3500/月，7400/季度
+## 帖子内容页下方，1000/周，2000/月，4000/季度
 
 
 ![](https://github.com/xcdd-me/xcdd_ad/blob/main/scrnli_2021_7_10%E4%B8%8B%E5%8D%882-16-10.png?raw=true)
